@@ -1,4 +1,4 @@
-# demo-repo
+# Sarbajit's 1st repo
 
 To install dependencies:
 
